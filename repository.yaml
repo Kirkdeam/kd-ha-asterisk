@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: KD Asterisk Add-on
+url: "https://github.com/Kirkdeam/kd-ha-asterisk"
+maintainer: Kirk Deam <me@kirkdeam.com>
